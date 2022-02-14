@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    background-color: antiquewhite;
+    color: black;
+}
+h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .primera{
+     text-align: center;
+ }
+.lista{
+    text-align: center;
+}
+ul{
+    display: inline-block; 
+    text-align:left ;
+    width: 500px;
+    height: auto;
+}
+li{
+    font-size: 24px;
+}
+.tercero{
+    text-align: center;
+}
