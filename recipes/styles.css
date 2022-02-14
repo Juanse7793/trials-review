@@ -1,0 +1,35 @@
+*{
+    background-color:blanchedalmond;
+}
+h1{
+    font-family: 'Cinzel', serif;
+}
+h2{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+h3{
+    font-family: 'Comfortaa', cursive;
+}
+img{
+    height: auto;
+    width: 500px;
+}
+.principal{
+    text-align: center;
+
+}
+div{
+    text-align: center;
+}
+ul{
+    display: inline-block; 
+    text-align: left;
+    width: 500px;
+    height: auto;
+}
+ol{
+    display: inline-block; 
+    text-align: left;
+    width: 500px;
+    height: auto;
+}
